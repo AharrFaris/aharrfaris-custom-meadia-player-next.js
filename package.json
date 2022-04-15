@@ -1,6 +1,6 @@
 {
   "name": "aharrfaris-custom-meadia-player-next.js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A media player adopted from reactjs-media for all media components in next.js. Video and Audio",
   "main": "./lib/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jim-junior/reactjs-media.git"
+    "url": "git+https://github.com/aharrfaris/aharrfaris-custom-meadia-player-next.js.git"
   },
   "keywords": [
     "react",
