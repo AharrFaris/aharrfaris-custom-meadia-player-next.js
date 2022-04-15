@@ -1,0 +1,1 @@
+Custom Media PLayer adopted from reactjs-media
